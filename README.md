@@ -1,5 +1,5 @@
 # OrderManagementSystem
-Api to add cutomer (POST) - localhost:8080/api/customers/
+Api to add customer (POST) - localhost:8080/api/customers/
 Request Body example - {
     "firstName":"Krishna",
     "lastName":"Chamoli"
